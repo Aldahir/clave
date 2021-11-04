@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "pug": "^3.0.2",
+    "sequelize": "^6.9.0",
+    "sqlite3": "^5.0.2"
+  },
+  "name": "clave",
+  "description": "clave is a open source js player created by Aldair Cajicua to test local archives from a specific remote folder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldahir/clave.git"
+  },
+  "author": "Aldair cajicua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldahir/clave/issues"
+  },
+  "homepage": "https://github.com/Aldahir/clave#readme"
+}
